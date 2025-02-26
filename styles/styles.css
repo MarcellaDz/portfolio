@@ -150,8 +150,8 @@ font-weight: 400;
     }
     
     .apresentacao__imagem {
-        width: 50%;
-        height: auto;
+        width: 200px;
+        height: 200px;
     }
 
 }
