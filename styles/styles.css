@@ -120,6 +120,10 @@ body{
     height: auto;
 }
 
+ .apresentacao__links__navegacao {
+        width: 200px;
+    }
+
 .rodape {
 color: var(--cor-primaria);
 background-color: var(--cor-terciaria);
